@@ -25,7 +25,9 @@ header {
     box-sizing: border-box; /* Asegura que el padding no cause desbordamiento */
     width: 100%; /* Para evitar que sobresalga del viewport */
 }
-
+#subtitulo {
+    margin-left: 10px;
+}
 #sobreMi {
     grid-area: aside;
     text-align: center;
